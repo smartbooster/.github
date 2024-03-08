@@ -1,6 +1,6 @@
 # Bienvenue sur le profil Github de SmartBooster 🚀
 
-<a href="https://www.smartbooster.io"><img align="right" src="https://raw.githubusercontent.com/smartbooster/.github/main/profile/public/logo/logo-dark.svg" height="95" alt="SmartBooster"></a>
+<a href="https://www.smartbooster.io"><img align="right" src="https://raw.githubusercontent.com/smartbooster/.github/main/profile/public/logo/smartbooster-logo.svg" height="95" alt="SmartBooster"></a>
 
 [SmartBooster](https://www.smartbooster.io) est une ESN Française spécialisée dans le développement de logiciel web sur mesure avec les frameworks Symfony et VueJs.
 
